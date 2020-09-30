@@ -1,1 +1,3 @@
-
+* In Chapter 2: "Text" there are a lot of tags that I was not aware of including: **sup**, **sub**, and **cite**. There is even a tag, *s*, for outdated material that still needs to be kept in the code for some reason.
+* In Chapter 10: "Introducing CSS" there are selectors that I did not know existed such as: **child**, **descendant**, and **adjacent sibling**. These seem like they could be useful for more complex CSS/HTML interactions.
+* Chapter 2: "Basic JavaScript Instructions" and Chapter 4: "Decisions and Loops" just summarized a lot of the concepts we went over in class early last week such as variables, arrays, logical operators, loops, etc.
