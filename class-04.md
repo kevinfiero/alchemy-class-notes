@@ -16,4 +16,3 @@
 * This was a great article that articulated a lot about what I was feeling during today's paired programming lab session. 
 * The point that spoke most to me is the engaged collaboration. Often times developers will create a silo for themselves and code and tend to not explain their work. By collaborating on a problem there is more than one developer present. This not only helps catch mistakes as they happen but also maintainability becomes easier if bugs appear. This ensures that there is redundancy built in so no one developer is the only subject matter expert on the codebase.
 * The other point that spoke to me is the job interview readiness. Often times I am writing code and can't put into words why or how it works. By explaining to a partner it slows the mind down to process what is happening step-by-step. This is advantageous for those technical interviews where the candidate needs to work out their thought process out loud.
-
