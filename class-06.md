@@ -3,7 +3,7 @@
 * At my last job I was learning to become a project manager for a supply chain company. I had previous experience in the supply chain domain so I was able to use that to layer on the project management skills. Trying to learn both how the supply chain industry works and project management would have been extremely challenging.
 
 **Chapter 3: Object Literals**
-* During today's lab we created an array of object literals. Each of these objects had their own properties. However, we have no created any methods during labs yet to reference those properties.
+* During today's lab we created an array of object literals. Each of these objects had their own properties. However, we have not yet created any methods during labs to reference those properties.
 
 **Chapter 5: Document Object Model**
 * The getElementsBy... methods return a live NodeLists where it is updated as the page updates. Whereas the querySelector... methods persist in a static list at the time the statement was called.
