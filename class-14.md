@@ -1,5 +1,5 @@
 **Google Teams Article**
-* Pro-tip: If your eyes are strained from staring at your computer all day then user a text reader to copy and paste the article content so you can listen to the article. I used this website: https://www.naturalreaders.com/online/.
+* Pro-tip: If your eyes are strained from staring at your computer all day then use a text reader to copy and paste the article content so you can listen to the article. I used this website: https://www.naturalreaders.com/online/.
 * Group dynamics play a large role in whether or not a team will be successful. The example in the beginning of the article points to two teams, each with like-minded and friendly individuals. However, one team seemed to flourish together while the other was often times unbearable.
 * Group work has ballooned 50% in the past two decades as problems solved at work become more complex.
 * Google's initial findings for Project Aristotle determined there were not strong correlations between individual team members and their team's success. For example, strangers vs. friends, micromanagement vs. hands-off management, and similar vs dissimilar educational backgrounds did not show a strong correlation.
